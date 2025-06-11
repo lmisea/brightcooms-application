@@ -6,7 +6,7 @@ class: text-center custom-bg
 transition: fade-out
 layout: intro
 themeConfig:
-  logoHeader: '/assets/brightcooms-logo.svg'
+  logoHeader: '/brightcooms-logo.svg'
 ---
 
 # ¡Hola Brightcooms! 👋
@@ -24,7 +24,7 @@ Estoy aplicando al puesto de **Frontend Developer**
 ---
 layout: presenter
 transition: fade
-presenterImage: '/assets/luis-isea.jpg'
+presenterImage: '/luis-isea.jpg'
 ---
 
 # Luis Isea
@@ -37,7 +37,7 @@ Desarrollador Web con experiencia en tanto Frontend como Backend
 
 <!-- Logos -->
 <div style="position: fixed; right: 4.5rem; bottom: 1rem; z-index: 50;">
-  <img src="/assets/logo-usb.png" alt="USB Logo" style="height:48px; width:auto; opacity:0.9;">
+  <img src="/logo-usb.png" alt="USB Logo" style="height:48px; width:auto; opacity:0.9;">
 </div>
 <div style="position: fixed; left: 2rem; bottom: 1rem; z-index: 50;">
   <a href="https://github.com/lmisea" target="_blank" title="GitHub">
@@ -46,13 +46,13 @@ Desarrollador Web con experiencia en tanto Frontend como Backend
 </div>
 <div style="position: fixed; left: 48%; bottom: 1rem; transform: translateX(-50%); z-index: 50;">
   <a href="https://www.linkedin.com/in/luis-miguel-isea" target="_blank" title="LinkedIn">
-    <img src="/assets/in-white.png" alt="LinkedIn Logo" style="height:30px; width:auto; opacity:0.9;">
+    <img src="/in-white.png" alt="LinkedIn Logo" style="height:30px; width:auto; opacity:0.9;">
   </a>
 </div>
 
 ---
 layout: text-image
-media: '/assets/seconds.png'
+media: '/seconds.png'
 caption: 'User Page después de iniciar sesión'
 transition: slide-left
 ---
@@ -114,7 +114,7 @@ transition: slide-left
 ---
 layout: text-image
 reverse: true
-media: '/assets/rintronic.png'
+media: '/rintronic.png'
 caption: 'Modulo de conferencias doctor-paciente'
 transition: slide-down
 ---
@@ -122,7 +122,7 @@ transition: slide-down
 # Rintronic
 
 <div class="flex items-center gap-6" style="display: inline-flex; align-items: center;">
-  <img src="/assets/rintronic-logo.png" alt="Rintronic" style="width:38px;height:32px;">
+  <img src="/rintronic-logo.png" alt="Rintronic" style="width:38px;height:32px;">
   <span class="text-2xl font-bold">Desarrollador Frontend</span>
 </div>
 
@@ -161,7 +161,7 @@ transition: slide-down
 <v-click>
 - <div style="display: inline-flex; align-items: center;">
     <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" style="text-decoration: none;">MSSQL</a>
-    <img src="/assets/sql-server.png" style="height:1.4em; margin-left: 0.4em; vertical-align: middle;">
+    <img src="/sql-server.png" style="height:1.4em; margin-left: 0.4em; vertical-align: middle;">
   </div>
 </v-click>
 <v-click>
